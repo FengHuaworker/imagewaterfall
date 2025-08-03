@@ -2,19 +2,17 @@
 
 部署：
 
-1.Fork本仓库
+1.在本仓库的Code页，点击index.js，全部复制
 
 2.打开dash.cloudflare.com，计算（Workers），Workers和Pages
 
 3.创建，Workers
 
-4.导入存储库
+4.点击“从HelloWorld开始”
 
-*连接你的Github仓库
+5.点击继续处理项目，右上角第二个（编辑代码），点击index.js，把刚刚复制的代码全部填入即可
 
-5.点击imagewaterfall
-
-6.完成部署后，回到dash.cloudflare.com
+6.回到dash.cloudflare.com
 
 7.存储与数据库，KV，Create Instance（创建KV命名空间）
 
